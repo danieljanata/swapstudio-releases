@@ -1,7 +1,7 @@
 # SwapStudio
 
 Swap a face into videos, or bring a photo to life with a video's movement — on a graphics card
-rented on [vast.ai](https://vast.ai) only while it works. Mac app (Apple Silicon and Intel, macOS 11+).
+rented on [vast.ai](https://vast.ai) only while it works. Mac app (Apple Silicon and Intel, macOS 12 Monterey or newer).
 
 ## Install
 
